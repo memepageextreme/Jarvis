@@ -1,0 +1,3 @@
+Jarvis AI Assistant demo server running on http://172.18.0.2:3000
+Server is accessible from other devices on the same network
+Press Ctrl+C to stop the server

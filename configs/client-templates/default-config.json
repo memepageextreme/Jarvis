@@ -1,0 +1,10 @@
+{
+  "client_name": "{{CLIENT_NAME}}",
+  "client_email": "{{CLIENT_EMAIL}}",
+  "workspace": "/home/{{CLIENT_NAME}}/clawd",
+  "ai_provider": "qwen-portal",
+  "communication_channels": ["whatsapp"],
+  "features_enabled": ["basic_assistant", "calendar", "web_search"],
+  "deployment_date": "{{DEPLOYMENT_DATE}}",
+  "status": "active"
+}

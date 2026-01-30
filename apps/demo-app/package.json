@@ -1,0 +1,25 @@
+{
+  "name": "jarvis-demo-app",
+  "version": "1.0.0",
+  "description": "Demo application for Jarvis AI Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "ai",
+    "assistant",
+    "demo",
+    "jarvis",
+    "clawdbot"
+  ],
+  "author": "Jarvis AI Assistant",
+  "license": "MIT"
+}
